@@ -30,7 +30,7 @@ var unfollow = function unfollower(){
 };
 
 $('._bgvpv').click(); // <-- opens grid of followers
-setInterval(unfollow, 600000);
+setInterval(unfollow, 610000);
 setInterval(scroller, 2000);
 
 
